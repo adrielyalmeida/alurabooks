@@ -45,6 +45,11 @@
     padding: 1em;
 }
 
+.descrição__estrelas {
+    color: var(--laranja);
+    padding: 0.5em;
+}
+
 .descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
